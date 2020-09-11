@@ -14,5 +14,7 @@ These are some of the activity/actions to be predicted :-
 
 Dataset link :- https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer
 
+NOTE:- you can download my Presentation, Report and .ipynb file to better understand what is being done.
+
 EXTRAS :- 
 some basic readings about Accelerometer @ https://www.livescience.com/40102-accelerometers.html
