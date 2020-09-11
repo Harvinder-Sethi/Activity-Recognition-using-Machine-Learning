@@ -14,7 +14,7 @@ These are some of the activity/actions to be predicted :-
 
 Dataset link :- https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer
 
-NOTE:- you can download my Presentation, Report and .ipynb file to better understand what is being done.
+NOTE:- You can download my Presentation, Report and .ipynb file to better understand what is being done. Open the file in Jupyter Notebook using python Goto Kernel and select Restart Kernel and run all cells. Please keep a note of the 15 File names, it should be the same.
 
 EXTRAS :- 
 some basic readings about Accelerometer @ https://www.livescience.com/40102-accelerometers.html
